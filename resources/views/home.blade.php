@@ -9,8 +9,6 @@
 </head>
 <body>
 
-  hgfhytjhhfjgtu7yykjnhjgyh
-
 
   
     <nav class="bg-gray-800">
